@@ -1,0 +1,6 @@
+Steps to run the code:
+1. Open `Social Network Analysis.ipynb` and click `Open in Colab` 
+2. Once you have opened the code in Colab, you have click `File` and press `Save a copy in Drive`.
+3. Download `congress_network/congress.edgelist` and `congress_network/congress_network_data.json` to your local.
+4. Upload `congress.edgelist` and `congress_network_data.json` to Google Colab. (You can do it by clicking the `File` icon on the left and by dragging the files from your local to Colab)
+5. Follow the prompts in the Google Colab and you should be able to run the whole code.
