@@ -1,8 +1,8 @@
 <h1><center>117<sup>th</sup> US Congress Twitter Interaction Graph Analysis</center></h1>
 
-**Objective:** The aim of this project is to derive a brief analysis of the 117th US Congress's twitter interactions using `PySpark` and `GraphFrames`.
+**Objective:** The aim of this project is to derive a brief analysis of the 117th US Congress's twitter interactions using `PySpark` and `GraphFrames`. (source code: Social Network Analysis.ipynb)
 
-**Dataset:** The dataset used is a network that represents the Twitter interaction network for the 117th United States Congress, both House of Representatives and Senate. [1]
+**Dataset:** The dataset used is a network that represents the Twitter interaction network for the 117th United States Congress, both House of Representatives and Senate. [1] For the projectwe are only using `congress_network_data.json` and `congress.edgelist` files to create the graph.
 
 **Context:** The 117th United States Congress was a meeting of the legislative branch of the United States federal government, composed of the United States Senate and the United States House of Representatives. It convened in Washington, D.C., on January 3, 2021, during the final weeks of Donald Trump's first presidency and the first two years of Joe Biden's presidency and ended on January 3, 2023. [2]
 
