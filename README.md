@@ -1,5 +1,8 @@
 <h1><center>117<sup>th</sup> US Congress Twitter Interaction Graph Analysis</center></h1>
 
+![image](https://github.com/user-attachments/assets/f0d4bc41-d486-456e-9efe-d8391a308dc7)
+
+
 **Objective:** The aim of this project is to derive a brief analysis of the 117th US Congress's twitter interactions using `PySpark` and `GraphFrames`. (source code: Social Network Analysis.ipynb)
 
 **Dataset:** The dataset used is a network that represents the Twitter interaction network for the 117th United States Congress, both House of Representatives and Senate. [1] For the project, we are only using `congress_network_data.json` and `congress.edgelist` files to create the graph.
